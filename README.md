@@ -22,4 +22,7 @@ Advises reconsidering bookings with long lead times, boosting marketing during p
 
 Future Scope
 Real-time data integration, predictive analytics, customer segmentation, and sentiment analysis on customer feedback would further enhance insights and decision-making capabilities.
+
+🔗 Try it live here: https://shorturl.at/FXwqx 
+
 # BI_PROJECTS

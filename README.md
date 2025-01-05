@@ -1,3 +1,5 @@
+Hotel Management Booking 
+
 Created an interactive Power BI dashboard to analyze key performance indicators in the hospitality industry, providing a comprehensive view of booking, revenue, and cancellation trends. 
 
 
